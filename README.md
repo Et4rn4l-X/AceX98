@@ -66,7 +66,7 @@
 
 | Platform | Status | Notable |
 |----------|--------|---------|
-| 🟥 **TryHackMe** | `rank #16919` · **top 1%** · 259 rooms · 33 badges · 🔥 | [0xD][LEGEND] |
+| 🟥 **TryHackMe** | `rank #16919` · **top 1%** · 350 rooms · 42 badges · 🔥 | [0xD][LEGEND] |
 | 🟧 **pwn.college** | Core Material — Intro to Cybersecurity dojo | Active |
 | ⬛ **Hack The Box** | Machines & Challenges | Active |
 | 🐚 **Air2Shell** | CTF Team · Air University | 10+ CTFs |
