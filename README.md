@@ -34,7 +34,7 @@
 ┌─[ AceX98@airuniversity ]─[ ~/profile ]
 └──╼ cat identity.yaml
 
-  handle     : AceX98  [0xD][LEGEND]
+  handle     : Et4rn4l_X [0xE][GUARDIAN]
   real_name  : Abdul Haseeb
   location   : Pakistan  🇵🇰
   university : Air University
